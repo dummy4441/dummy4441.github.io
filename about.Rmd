@@ -2,4 +2,7 @@
 title: "About This Website"
 ---
 
-More about this website.
+This website was created in Rstudio. As a budding computer scientist, I have much to share. Below are some projects I've worked on. Please explore them if they seem interesting!
+
+
+

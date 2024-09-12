@@ -1,0 +1,46 @@
+---
+title: "Resume"
+---
+
+### Keith Gabriel Rice  
+Atlanta, GA • gaberice25@gmail.com • 404-414-9093  
+
+#### Education  
+**Sewanee: The University of the South**, Sewanee, TN  
+**Bachelor of Science: Computer Science Major**, Expected May 2025  
+Relevant Courses: Introduction to Computer Science, Discrete Mathematics, Computer Systems and Organization, Data Mining, Database Design with Web Applications, Object-Oriented Programming, Statistics, Calculus I-II, Data Structures and Algorithms, Functional Programming  
+
+#### Experience  
+**Sewanee Work Study**, Sewanee, TN  
+**Football Work Study Assistant**, August 2021 - Present  
+- Demonstrated proficiency in capturing football events from unique aerial drone perspectives by combining technical expertise, equipment operation, and safety measures to record over 50 hours of footage  
+- Filmed 100+ home games and practices, increasing efficiency in reviewing film by 50% and contributing to overall improvement of team performance  
+
+**Stirling's Coffee House**, Sewanee, TN  
+**Barista**, January 2022 - Present  
+- Delivered exceptional service, managed orders, and handled cash transactions with precision, satisfying 40-50 customers per shift and enhancing interpersonal skills for future opportunities  
+
+**Sewanee Datalab**, Sewanee, TN  
+**Programmer and Data Scientist**, May 2024 - July 2024  
+- Collaborated with a team of four students on a client project to analyze web tracking data  
+- Created data visualizations to identify trends within data, providing clear insights to the client  
+
+#### Leadership  
+**Gamma Sigma Phi**, Sewanee, TN  
+**Vice President and Risk Management Chair**, January 2022 - Present  
+- Organized and planned weekly meetings, improving overall attendance rates by 30%  
+- Established a new alumni network of 100 members to communicate biweekly local service opportunities and connectivity events via newsletter  
+
+**Summer In Berlin**, Berlin, Germany  
+**Student Lead**, May 2022 - June 2022  
+- Developed cross-cultural communication, adaptability, and cultural awareness through the study of German language and culture in a 3-week program  
+- Led a group of 8 students in planning and coordinating networking opportunities and over 30 historical site visits to broaden cultural studies  
+
+**Interfaith House**, Sewanee, TN  
+**Co-Director**, February 2024 - Present  
+- Led and coordinated interfaith activities and events, including weekly discussion groups and annual community service projects, fostering a collaborative and inclusive environment  
+- Managed outreach initiatives such as interfaith panels, facilitating meaningful dialogues among diverse religious and spiritual communities  
+
+#### Key Skills  
+I'm a motivated and skilled computer science major with a strong work ethic. I'm a versatile candidate passionate about technology, customer service, and the environment, ready to contribute effectively to new projects while continuing to learn and grow professionally.  
+**Software Proficiencies**: Python, C, C++, Java, SQL, HTML, R-Studio  

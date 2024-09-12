@@ -1,15 +1,10 @@
 ---
-title: "My Website"
+title: "Hello, and welcome to my website!"
 ---
+I’m Gabe Rice, a Computer Science major and a Philosophy minor at Sewanee University.
 
-Hello, and welcome to my website!
+I'm a technology enthusiast with a passion for solving coding problems for my classes, building and upgrading my computer, flying drones, and gaming online with friends. At Sewanee, I've honed my communication skills, particularly in written and oral forms, which are integral parts of our curriculum.
 
-My name is Keith Gabriel Rice, I am a senior in college and a computer science major with a minor in philosophy. 
+In addition to being a full-time student, I balance multiple campus jobs. At Stirlings, our campus coffee shop, I've developed strong customer service skills through daily interactions with customers. As the drone pilot for the Sewanee varsity football program, I capture game and practice footage, combining my technical skills with my love for drones. As a computer science tutor, I support students in introductory and intermediate courses like Python programming, data structures, and algorithms. My role involves helping students debug code, grasp key concepts, and enhance their problem-solving abilities.
 
-I am a very enthusiastic and tenacious person, I am looking foward into contiuing my
-
-
-
-For more information about simple R Markdown websites, please read the documentation at https://bookdown.org/yihui/rmarkdown/rmarkdown-site.html.
-
-Please also note that simple R Markdown sites are _not_ based on **blogdown**. They are probably good for websites with only a few Rmd documents. For larger-scale and more sophisticated websites (such as blogs), you may want to use **blogdown** instead: https://github.com/rstudio/blogdown.
+Thanks for visiting my page, please select some of the other sections to learn more about my experiences!  
